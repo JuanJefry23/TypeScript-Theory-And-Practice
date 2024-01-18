@@ -1,0 +1,13 @@
+INSTALAREMOS:
+
+i) Nodejs: Ir a la página web de ellos e instalar.
+ii)VS Code (Es un editor de código, lo que significa que no tiene un compilador interno como lo tienen los IDEs)
+iii) Google Chrome
+
+
+Extensiones de VS Code:
+a)TypeScript importer: Instalarlo desde VS Code
+
+
+Extensiones de Google Chrome:
+a) JSON Viewer Awesome

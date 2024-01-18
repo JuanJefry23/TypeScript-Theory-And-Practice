@@ -1,0 +1,12 @@
+INSTALANDO TYPESCRIPT:
+
+Debemos ir al siguiente link: https://www.typescriptlang.org/ > Download > Globally Installing TypeScript
+acá tendremos un comando 'npm' para instalarlo globalmente, por esta razón necesitamos Node porque 
+utilizaremos 'npm' para instalar, o sea Node.
+
+Luego, abrimos la terminal de comando como SUPER USUARIO e instalamos:
+(No importa en que ruta estemos                                         npm install -g typescript
+Yo lo instale en C:\Windows\system32>)                                          
+
+*Para comprobar que tenemos instalado Typescript podemos ejecutar en la consola de comandos:
+                                                                                                tsc --version

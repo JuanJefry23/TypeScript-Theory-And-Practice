@@ -1,0 +1,32 @@
+
+
+                                TYPESCRIPT
+
+Busca tener la misma experiencia de lenguajes como: Java, C#, Objective-C, etc.
+Typescript es un super-set de Javascript
+
+Typescript agarra lo que es JS y el ESNext y le añade y expande funcionalidades, agrega tipados, ayudas, manejos
+de clases, principalmente Typescript permite utilizar un tipado estricto.
+
+Typescript NO PUEDE CORRER/ANDAR directamente en el navegador web. Lo que hace Typescript es transpilar su código
+a código Javascript, ya que Javascript SI es soportado por el navegador web.
+
+*Compilar: Es pasar código a Binario y hacer que la máquina lo ejecute.
+*Transpilar: Es traducir el código de una forma a otra, pero hace exactamente lo mismo
+
+Typescript te permite escribir código moderno que será soportado por la mayoría de navegadores web o plataforma
+objetivo.
+
+Con Typescript puedes crear código web, de aplicaciones mobiles, backend, funciones alojadas en la nube.
+
+
+TYPESCRIPT: Es básicamente JavaScript con tipado de variables, funciones, clases y nuevos tipos 
+            que no existen en JavaScript
+
+
+
+******* Cuando escribimos código TS debemos convertirlo luego a código JS 
+        en la consola de comando utilizamos:
+                                                tsc nombreDelArchivoTS.ts
+
+Lo anterior nos generará un archivo '.js'
