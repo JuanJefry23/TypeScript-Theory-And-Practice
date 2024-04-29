@@ -4,3 +4,4 @@ This is my Database for Theory of Typescript.
 ✔Newest Features
 ✔Good Practices
 ✔Data Type
+✔Values
