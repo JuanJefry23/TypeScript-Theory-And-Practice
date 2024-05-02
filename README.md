@@ -5,3 +5,4 @@ This is my Database for Theory of Typescript.
 ✔Good Practices
 ✔Data Type
 ✔Values
+✔Data Type Declaration
