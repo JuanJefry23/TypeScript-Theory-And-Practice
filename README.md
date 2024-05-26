@@ -6,3 +6,4 @@ This is my Database for Theory of Typescript.
 ✔Data Type
 ✔Values
 ✔Data Type Declaration
+✔Method types
